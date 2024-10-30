@@ -1,0 +1,19 @@
+*{
+    background-color: gray;
+}
+div{
+    text-align: center;
+    margin-top: 100px;
+}
+button{
+    font-size: 22px;
+    border: 2px solid white;
+    padding:10px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+p{
+    font-size: 22px;
+    color: white ;
+}
